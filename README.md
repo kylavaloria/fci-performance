@@ -313,11 +313,10 @@ Project delivery is concentrated among a small number of contractors, meaning th
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- [ ] Obtain actual expenditure data (`UtilizedAmount`) for direct cost overrun analysis
-- [ ] Expand contractor analysis to include regional performance breakdowns
-- [ ] Investigate 2021 anomalies through supplementary administrative records
-- [ ] Integrate geospatial data for flood-prone area coverage assessment
-- [ ] Build an interactive Power BI or dashboard version of the six charts
+- [ ] Obtain complete cost utilization or actual expenditure data to enable direct identification of over-budget projects
+- [ ] Implement contractor-level monitoring frameworks, particularly for firms handling large volumes or high-value projects
+- [ ] Strengthen performance evaluation methodologies beyond incomplete project rate as a risk proxy
+- [ ] Investigate operational and management factors that contributed to the 2021 performance dip
 
 </details>
 
